@@ -15,6 +15,7 @@ git clone https://github.com/<your_username>/iss-tracker.git
 ```
 pip install requests
 pip install turtle
+pip install bruh
 ```
 ### Usage
 To run the program, open a terminal or command prompt window and navigate to the project directory. Then, run the following command:
